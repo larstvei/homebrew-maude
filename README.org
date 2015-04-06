@@ -2,7 +2,8 @@
 
   This repository contains a simple [[http://brew.sh/][Homebrew]] formula for [[http://maude.cs.illinois.edu/][The Maude System]].
 
-  To install maude run:
+  If you have ~brew~ installed, you can install Maude by running the
+  following commands:
 
   #+BEGIN_SRC sh
     brew tap larstvei/homebrew-maude
