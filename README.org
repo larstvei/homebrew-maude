@@ -9,7 +9,7 @@
     brew install maude
   #+END_SRC
 
-  Running the command ~maude~ something like this:
+  Running the command ~maude~ should produce something like this:
 
   #+BEGIN_EXAMPLE
                          \||||||||||||||||||/
