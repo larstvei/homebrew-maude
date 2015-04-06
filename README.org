@@ -1,0 +1,22 @@
+* Homebrew formula for The Maude System
+
+  This repository contains a simple [[http://brew.sh/][Homebrew]] formula for [[http://maude.cs.illinois.edu/][The Maude System]].
+
+  To install maude run:
+
+  #+BEGIN_SRC sh
+    brew tap larstvei/homebrew-maude
+    brew install maude
+  #+END_SRC
+
+  Running the command ~maude~ something like this:
+
+  #+BEGIN_EXAMPLE
+                         \||||||||||||||||||/
+                       --- Welcome to Maude ---
+                         /||||||||||||||||||\
+                Maude 2.6 built: Dec 10 2010 11:12:39
+                Copyright 1997-2010 SRI International
+                       Tue Apr  7 01:03:36 2015
+    Maude>
+  #+END_EXAMPLE
