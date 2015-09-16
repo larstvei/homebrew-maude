@@ -13,11 +13,11 @@
   Running the command ~maude~ should produce something like this:
 
   #+BEGIN_EXAMPLE
-                         \||||||||||||||||||/
-                       --- Welcome to Maude ---
-                         /||||||||||||||||||\
-                Maude 2.6 built: Dec 10 2010 11:12:39
-                Copyright 1997-2010 SRI International
-                       Tue Apr  7 01:03:36 2015
-    Maude>
+                       \||||||||||||||||||/
+                     --- Welcome to Maude ---
+                       /||||||||||||||||||\
+              Maude 2.7 built: Mar  3 2014 18:07:27
+              Copyright 1997-2014 SRI International
+                     Wed Sep 16 17:20:55 2015
+  Maude>
   #+END_EXAMPLE
