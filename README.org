@@ -9,13 +9,13 @@
     brew tap larstvei/homebrew-maude
   #+END_SRC
 
-  You can then install [[http://maude.cs.illinois.edu/w/index.php?title=Maude_download_and_installation#Core_Maude_2.7][Core Maude]] by running:
+  You can then install [[http://maude.cs.illinois.edu/w/index.php?title=Maude_download_and_installation#Core_Maude_3.1][Core Maude]] by running:
 
   #+BEGIN_SRC sh
     brew install maude
   #+END_SRC
 
-  For [[http://maude.cs.illinois.edu/w/index.php?title=Maude_download_and_installation#Full_Maude_2.7][Full Maude]] run:
+  For [[http://maude.cs.illinois.edu/w/index.php?title=Maude_download_and_installation#Full_Maude_3.1][Full Maude]] run:
 
   #+BEGIN_SRC sh
     brew install full-maude
@@ -27,8 +27,8 @@
                        \||||||||||||||||||/
                      --- Welcome to Maude ---
                        /||||||||||||||||||\
-              Maude 2.7 built: Mar  3 2014 18:07:27
-              Copyright 1997-2014 SRI International
-                     Wed Sep 16 17:20:55 2015
+              Maude 3.1 built: Oct 12 2020 20:13:41
+              Copyright 1997-2020 SRI International
+                     Wed Apr 21 11:55:56 2021
   Maude>
   #+END_EXAMPLE
